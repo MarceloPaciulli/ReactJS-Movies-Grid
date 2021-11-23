@@ -1,0 +1,16 @@
+
+.movieCard {
+    color:white;
+    list-style: none;
+    font-size:1.5rem;
+}
+
+.movieImage {
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.titleEffect {
+    text-align: center;
+    font-family: 'Movies', sans-serif;
+}
