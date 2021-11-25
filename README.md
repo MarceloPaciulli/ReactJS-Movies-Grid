@@ -1,4 +1,4 @@
-# Deploy (AWS S3 Bucket):
+# Deployment (AWS S3 Bucket):
 https://movies-grid-reactjs-project.s3.us-west-1.amazonaws.com/index.html
 
 # Remember:
